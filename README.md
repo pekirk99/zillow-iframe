@@ -4,6 +4,10 @@
 
 Integrating real estate search functionalities often involves complex APIs or geographic limitations. Zillow, one of the most popular platforms, imposes strict CAPTCHA measures, making it challenging to work with its API. This project provides a simple solution: embedding Zillow search results in an iframe. Users can enter an address, and Zillow's search results dynamically load without the need for API integration.
 
+![Greenshot 2024-12-11 22 06 19](https://github.com/user-attachments/assets/dc819519-4b07-403a-aa0a-03bceede11ef)
+![Greenshot 2024-12-11 22 19 54](https://github.com/user-attachments/assets/33e9a204-63ce-4bc7-a3d4-413271a5e654)
+![Greenshot 2024-12-11 22 06 56](https://github.com/user-attachments/assets/8d418925-d423-4af8-9867-696f6138cc6a)
+
 ---
 
 ## ✨ Features
